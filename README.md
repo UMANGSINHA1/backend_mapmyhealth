@@ -4,7 +4,7 @@
 
 A medical platform that allows doctors and patients to store and access medical records.
 
-
+# Team Name: DEV DYNAMOS
 
 ## Problem
 
