@@ -5,10 +5,6 @@
 A medical platform that allows doctors and patients to store and access medical records.
 
 
-## Team Name
-
-#NO_INTERN
-
 
 ## Problem
 
@@ -23,15 +19,6 @@ When visiting a doctor, patients may feel nervous or anxious, which can make it 
 
 Overall, the prescription form and database system in your web application can streamline the process of providing care to patients, improve communication between healthcare providers, and ultimately result in better health outcomes for patients.
 
-
-
-## Google Cloud Platform Usage:
-
-1. Google Mailing Api:
-   We have used the google cloud mailing api to send automated mails to users after they register.
-
-2. Compute Engine Google Api:
-   We have used AMD server instance N2D from Compute Engine Google Api to host our site's frontend and backend.
 
 
 ## Tech Stack
