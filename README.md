@@ -45,10 +45,9 @@ Overall, the prescription form and database system in your web application can s
 
 ## Team Members
 
-- Samudra Mitra
-- Saumya Subhra Nandi
-- Erum Fatima
-- Siddhartha Gaur  
+- Umang Sinha
+- Sakshamn Jha
+- Sarthak Saumya 
   <br>
   In summary, our medical website aims to make medical record-keeping more accessible and streamlined for both doctors and patients. With our user-friendly platform and advanced database system, we hope to revolutionize the healthcare industry.
 
